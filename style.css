@@ -18,21 +18,15 @@ body {
 }
 .header__top-h1 {
   color: #FFF;
-  font-family: Montserrat;
   font-size: 64px;
-  font-style: normal;
   font-weight: 700;
-  line-height: normal;
-  max-width: 788px;
   padding-top: 217px;
 }
 .header__text {
   color: #FFF;
   font-size: 18px;
-  font-style: normal;
   font-weight: 300;
   line-height: 32px; /* 177.778% */
-  max-width: 481px;
   margin-top: 32px;
   margin-bottom: 44px;
 }
@@ -47,7 +41,6 @@ body {
   font-size: 18px;
   font-style: inherit;
   font-weight: 400;
-  line-height: normal;
 }
 
 .footer {
@@ -78,9 +71,7 @@ body {
   top: 236px;
   left: 32px;
   color: #FFF;
-  font-family: Montserrat;
   font-size: 24px;
-  font-style: normal;
   font-weight: 600;
   line-height: 32px; /* 133.333% */
 }/*# sourceMappingURL=style.css.map */
